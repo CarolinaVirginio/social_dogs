@@ -11,19 +11,26 @@ At the moment, I’m working on the basic structure of the application while fol
 
 ## How to Run
 
-Install dependencies:
+1. Clone the repository:
+
+```
+git clone https://github.com/CarolinaVirginio/social_dogs.git
+cd social_dogs
+```
+
+2. Install dependencies:
 
 ```
 npm install
 ```
 
-Start the development server:
+3. Start the development server:
 
 ```
 npm run dev
 ```
 
-Open in the browser:
+4. Open in the browser:
 
 ```
 http://localhost:5173
@@ -66,11 +73,11 @@ The development is inspired by the course material, but includes several persona
 - Modernized styling and architecture
 - Necessary adjustments for React 18 + Vite
 
-**Contributions**
+## Contributions
 
 Suggestions and improvements are always welcome!
 Feel free to open a Pull Request or Issue.
 
-**License**
+## License
 
 This project is intended for personal and educational use only, with no commercial purposes.
